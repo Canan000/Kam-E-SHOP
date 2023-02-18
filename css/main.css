@@ -28,7 +28,8 @@ h1
 /* Create three equal columns that floats next to each other */
 .third {
   float: left;
-  width: 33.33%;
+  width: 33%;
+  margin: .11%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
   background-color: pink;
