@@ -1,0 +1,38 @@
+[33mcommit 8cb912acc9e211aff5fb315cedc1708e249b343a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1353411 54b312e
+Author: nacim <linnnux@hotmail.fr>
+Date:   Sat Feb 18 16:30:42 2023 +0100
+
+    Merge pull request #1 from akram2s/master
+    
+    home page review
+
+[33mcommit 54b312e467f8241647500b8322fa0911b0457238[m
+Author: Canan000 <125748056+Canan000@users.noreply.github.com>
+Date:   Sat Feb 18 14:58:01 2023 +0000
+
+    index html and css review
+
+[33mcommit a30509bcbac85024d86bd31ae98ab8ac3de792a6[m
+Author: akram2s <125457373+akram2s@users.noreply.github.com>
+Date:   Wed Feb 15 12:37:20 2023 +0000
+
+    add css and js
+
+[33mcommit 1353411ff7823108c12cc5b587d84f1762e3f2c4[m
+Author: nassim <linnnux@hotmail.fr>
+Date:   Wed Feb 15 12:12:57 2023 +0100
+
+    add about page
+
+[33mcommit 9a7fbc00b799301f8bbde9f0661f47c0402a9887[m
+Author: nassim <linnnux@hotmail.fr>
+Date:   Tue Feb 14 23:27:25 2023 +0100
+
+    : ajout page contact
+
+[33mcommit 9392eb1655e6874474f1e67fa5002c4d38f85224[m
+Author: nassim <linnnux@hotmail.fr>
+Date:   Tue Feb 14 23:24:52 2023 +0100
+
+    : inital commit
