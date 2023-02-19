@@ -31,7 +31,6 @@ h1
   width: 33%;
   margin: .11%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
   background-color: pink;
 }
 .half 
@@ -39,7 +38,6 @@ h1
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
   background-color: green;
 }
 /* Clear floats after the columns */
@@ -55,6 +53,13 @@ h1
   padding: 10px;
   text-align: center;
 }
+
+img
+{
+  height : 300px;
+  object-fit: cover;
+}
+
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media (max-width: 600px) 

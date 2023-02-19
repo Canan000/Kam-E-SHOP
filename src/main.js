@@ -7,7 +7,7 @@ displayMainTitle();
 
 var categoryContent = '<h2>Femmes</h2> <p> hello this is content of category 1';
 
-displayCategoryContent('category1', categoryContent);
+//displayCategoryContent('category1', categoryContent);
 
 categoryContent = '<h2>Hommes</h2> <p> hello this is content of category 2';
 
@@ -20,3 +20,5 @@ displayCategoryContent('category3', categoryContent);
 // this update head title contant
 
 displayCategoryContent('headMainTitle', 'Kam e-Shop');
+
+getOneProduct();
