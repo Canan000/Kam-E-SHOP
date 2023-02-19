@@ -55,19 +55,17 @@ function displayOneProduct(categoryId, data)
 {
 
   console.log(categoryContent) ;
-  let productContent = `<h3>TITLE ${data.title} </h3>
-      <h3>Price</h3> :  ${data.price}
+  let productContent = `<article>
+  
+    <h3> ${data.title} </h3>
     
-      <h3>Description</h3><p>${data.description}</p>
-     <p>Rating : ${data.rating.rate}</p>
-     
         <img src=" ${data.image}">
-     
-
+     </article>
 
   `
-  document.getElementById(categoryId).innerHTML = productContent;
+  document.getElementById(categoryId).innerHTML += productContent;
   console.log('execute displayCategoryContent');
+  
 }
         
 
