@@ -40,6 +40,14 @@ h1
   padding: 10px;
   background-color: green;
 }
+
+.container 
+{
+  float: left;
+  width: 100%;
+  padding: 10px;
+  background-color: sandybrown;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
